@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ObjDetTask/
 
 # Spyder project settings
 .spyderproject

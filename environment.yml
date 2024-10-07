@@ -1,0 +1,4 @@
+name: D:\GitHub\Sign-Language-Detection\ObjDetTask
+channels:
+  - defaults
+prefix: D:\GitHub\Sign-Language-Detection\ObjDetTask
